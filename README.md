@@ -1,2 +1,2 @@
-# ObjectOrientedProgrammingAssignments
-Nesne Yönelimli proramlama dersinde verilen ödevlerin yapmış olduğum cevaplar
+# Object Oriented Programming Assignments
+The answers to the homework given in Object Oriented Programming course
